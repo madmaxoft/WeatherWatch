@@ -1,5 +1,5 @@
 # WeatherWatch
-Plugin for MCServer that monitors weather and creates statistics
+Plugin for [MCServer](http://mc-server.org) that monitors weather and creates statistics
 
 # What it does
 The plugin logs each and every weather change in any of the worlds that the server has loaded, to a logfile `weather.log`. Also, when unloaded (during server shutdown or plugin reload), the plugin writes a summary statistics to the logfile.
